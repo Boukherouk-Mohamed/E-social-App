@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.*;
 
 @RestController
 @CrossOrigin("*")
-@RequestMapping("api/v1/employee")
+@RequestMapping("api/v1/user")
 public class UserController {
 
 
