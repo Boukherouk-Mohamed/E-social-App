@@ -1,0 +1,20 @@
+.menu{
+    background-color: #F4FDFF;
+    border-radius: 10px;
+    padding-top: 50px;
+}
+
+
+/* Style pour les écrans plus petits (responsive) */
+@media screen and (max-width: 800px) {
+        .menu {
+                width: 70px;
+                        /* Cache le texte et affiche seulement l'icône */
+
+            .pro-menu-item-content {
+                display: none;
+            }
+        }
+    }
+
+
