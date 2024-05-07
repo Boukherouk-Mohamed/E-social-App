@@ -12,8 +12,6 @@ E-social is a social media platform designed to connect users through private me
 
 - **Profile Customization**: Users can personalize their profiles with avatars, bios, and other customizable features to reflect their personality and interests.
 
-- **Notifications**: E-social notifies users about new messages, chatroom invitations, and upcoming live streams to keep them engaged and informed.
-
 - **Privacy Settings**: E-social offers privacy settings that allow users to control who can send them messages, join their chatrooms, or view their live streams.
 
 ## Getting Started
@@ -28,15 +26,14 @@ To get started with E-social, follow these steps:
 
 4. **Customize**: Personalize your profile with avatars, bios, and other customizable features to express yourself on E-social.
 
-5. **Stay Updated**: Enable notifications to stay informed about new messages, chatroom invitations, and upcoming live streams.
 
 ## Technologies Used
 
 E-social is built using the following technologies:
 
-- **Frontend**: HTML, CSS, JavaScript, React.js
-- **Backend**: Node.js, Express.js, MongoDB
-- **Real-time Communication**: Socket.io for real-time messaging and live streaming capabilities.
+- **Frontend**: React.js
+- **Backend**: Spring boot, MongoDB
+- **Real-time Communication**: Socket.io for real-time messaging and live streaming capabilities, LiveKit for real-time stream
 
 ## Contributing
 
