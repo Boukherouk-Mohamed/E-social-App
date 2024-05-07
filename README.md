@@ -48,7 +48,5 @@ We welcome contributions from the community to improve E-social. If you would li
 
 If you have any feedback, suggestions, or issues with E-social, please feel free to reach out to us. We appreciate your input and are committed to continuously improving the platform.
 
-## License
 
-E-social is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
